@@ -7,3 +7,5 @@ Script que realiza **coleta** de informacoes do sistema.
 `./minfo.sh disk - mostra o espaco usado e livre do disco`
 `./minfo.sh all - mostra todos os comandos acima`
 
+RM561867
+Joao Pedro Rabelo 1TDCPG
